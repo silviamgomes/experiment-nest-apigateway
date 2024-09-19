@@ -25,10 +25,13 @@
     "@nestjs/microservices": "^10.4.1",
     "@nestjs/platform-express": "^10.0.0",
     "@nestjs/swagger": "^7.4.0",
+    "amqp-connection-manager": "^4.1.10",
+    "amqplib": "^0.10.3",
     "moment-timezone": "^0.5.45",
     "moment-timezone-all": "^0.5.5",
     "reflect-metadata": "^0.2.0",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "uid": "^2.0.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
